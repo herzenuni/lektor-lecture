@@ -1,2 +1,6 @@
 [project]
 name = LectureLector
+
+
+[servers.ghpages]
+target = ghpages+https://nzhukov:5030973f63fa7ff05edd0de52ff9bae2dd077f06@herzenuni/lektor-lecture/docs
