@@ -1,0 +1,10 @@
+title: Welcome to LectureLector!
+---
+body:
+
+This is a basic demo website that shows how to use Lektor for a basic
+website with some pages and a blog.
+
+Это лекция 6 октября 2020 года. 
+---
+time: 15:10

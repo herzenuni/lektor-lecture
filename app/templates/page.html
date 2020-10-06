@@ -1,0 +1,6 @@
+{% extends "layout.html" %}
+{% block title %}{{ this.title }}{% endblock %}
+{% block body %}
+  <h2>{{ this.title }} в {{ this.time }} по МСК</h2>
+  {{ this.body }}
+{% endblock %}
